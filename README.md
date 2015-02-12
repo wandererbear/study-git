@@ -1,3 +1,5 @@
-# study-git
-# first
-# second
+study-git
+=========
+
+Hello, Git World
+
